@@ -20,6 +20,5 @@ Handles multiple input domains including sketches, infrared images, and satellit
 Task 6 — Colorization of Historical Photographs
 Fine-tuned colorization model focused on historical accuracy, trained specifically on historical photo datasets to replicate era-accurate color tones.
 
----
 
 **Dataset sources, methodology, results, and metrics are documented inside each task's notebook.**
